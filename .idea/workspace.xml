@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="programers0 대소문 바꿔서 출력하기">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/특수문출력하기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="programers0 특수문자 출력하기">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/덧셈식출력하기/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -66,7 +68,7 @@
       <workItem from="1711727255790" duration="330000" />
       <workItem from="1711727590286" duration="362000" />
       <workItem from="1711758368924" duration="5708000" />
-      <workItem from="1712412248118" duration="1559000" />
+      <workItem from="1712412248118" duration="2873000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <option name="closed" value="true" />
@@ -92,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712411990587</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="programers0 특수문자 출력하기">
+      <option name="closed" value="true" />
+      <created>1712448285594</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712448285594</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +111,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git init" />
     <MESSAGE value="programers0 대소문 바꿔서 출력하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="programers0 대소문 바꿔서 출력하기" />
+    <MESSAGE value="programers0 특수문자 출력하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="programers0 특수문자 출력하기" />
   </component>
 </project>
