@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="programers0 특수문자 출력하기">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/덧셈식출력하기/Solution.java" afterDir="false" />
+    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="programers0  덧셈식 출력하기">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/문자열돌리기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/level1/달리기경주/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/level1/달리기경주/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +71,7 @@
       <workItem from="1711727255790" duration="330000" />
       <workItem from="1711727590286" duration="362000" />
       <workItem from="1711758368924" duration="5708000" />
-      <workItem from="1712412248118" duration="2873000" />
+      <workItem from="1712412248118" duration="7733000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <option name="closed" value="true" />
@@ -102,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712448285594</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="programers0  덧셈식 출력하기">
+      <option name="closed" value="true" />
+      <created>1712630795424</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712630795424</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +123,7 @@
     <MESSAGE value="git init" />
     <MESSAGE value="programers0 대소문 바꿔서 출력하기" />
     <MESSAGE value="programers0 특수문자 출력하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="programers0 특수문자 출력하기" />
+    <MESSAGE value="programers0  덧셈식 출력하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="programers0  덧셈식 출력하기" />
   </component>
 </project>
