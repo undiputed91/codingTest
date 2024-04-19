@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="programers0  문자열리스트를 문자열로 변환하기, 문자열 곱하기">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/더크게합치기/Solution.java" afterDir="false" />
+    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="programers0  더 크게 합치기">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/조건문자열/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/홀짝에따라다른반환하기/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +76,8 @@
       <workItem from="1712832282723" duration="304000" />
       <workItem from="1713155491320" duration="5891000" />
       <workItem from="1713241001925" duration="1074000" />
-      <workItem from="1713340983731" duration="1669000" />
+      <workItem from="1713340983731" duration="1827000" />
+      <workItem from="1713501630259" duration="2772000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <option name="closed" value="true" />
@@ -149,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713248430336</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="programers0  더 크게 합치기">
+      <option name="closed" value="true" />
+      <created>1713343635929</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713343635929</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +173,7 @@
     <MESSAGE value="programers0  홀짝 구분하기" />
     <MESSAGE value="programers0  문자열 겹쳐쓰기, 문자열 섞기" />
     <MESSAGE value="programers0  문자열리스트를 문자열로 변환하기, 문자열 곱하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="programers0  문자열리스트를 문자열로 변환하기, 문자열 곱하기" />
+    <MESSAGE value="programers0  더 크게 합치기" />
+    <option name="LAST_COMMIT_MESSAGE" value="programers0  더 크게 합치기" />
   </component>
 </project>
