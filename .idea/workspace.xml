@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="programers0  홀짝에따라다른값반환하기/조건문자열">
+    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="programers0  .idea의 workspace.xml git ignore">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/BufferReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +78,9 @@
       <workItem from="1713340983731" duration="1827000" />
       <workItem from="1713501630259" duration="3189000" />
       <workItem from="1717638674098" duration="886000" />
+      <workItem from="1717640933803" duration="438000" />
+      <workItem from="1718493175385" duration="49000" />
+      <workItem from="1721092473700" duration="947000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <option name="closed" value="true" />
@@ -166,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713507710753</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="programers0  .idea의 workspace.xml git ignore">
+      <option name="closed" value="true" />
+      <created>1717641124441</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1717641124441</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +194,22 @@
     <MESSAGE value="programers0  문자열리스트를 문자열로 변환하기, 문자열 곱하기" />
     <MESSAGE value="programers0  더 크게 합치기" />
     <MESSAGE value="programers0  홀짝에따라다른값반환하기/조건문자열" />
-    <option name="LAST_COMMIT_MESSAGE" value="programers0  홀짝에따라다른값반환하기/조건문자열" />
+    <MESSAGE value="programers0  .idea의 workspace.xml git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="programers0  .idea의 workspace.xml git ignore" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/programmers/level0/홀짝구분하기/Solution.java</url>
+          <line>5</line>
+          <properties class="org.example.programmers.level0.홀짝구분하기.Solution" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
