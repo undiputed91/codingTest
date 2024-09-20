@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="programers0  .idea의 workspace.xml git ignore">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/BufferReader.java" afterDir="false" />
+    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="bufferedReader">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/Baek2557/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/Baek2557/Main_bw.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/BufferReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/BufferReader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +82,11 @@
       <workItem from="1717638674098" duration="886000" />
       <workItem from="1717640933803" duration="438000" />
       <workItem from="1718493175385" duration="49000" />
-      <workItem from="1721092473700" duration="947000" />
+      <workItem from="1721092473700" duration="1029000" />
+      <workItem from="1721093661291" duration="1186000" />
+      <workItem from="1722444549272" duration="1200000" />
+      <workItem from="1726016484751" duration="656000" />
+      <workItem from="1726796220989" duration="1841000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <option name="closed" value="true" />
@@ -178,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717641124441</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="bufferedReader">
+      <option name="closed" value="true" />
+      <created>1721093503003</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721093503003</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +209,8 @@
     <MESSAGE value="programers0  더 크게 합치기" />
     <MESSAGE value="programers0  홀짝에따라다른값반환하기/조건문자열" />
     <MESSAGE value="programers0  .idea의 workspace.xml git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="programers0  .idea의 workspace.xml git ignore" />
+    <MESSAGE value="bufferedReader" />
+    <option name="LAST_COMMIT_MESSAGE" value="bufferedReader" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
