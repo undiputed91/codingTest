@@ -35,5 +35,4 @@ public class Solution {
         String answer = solution.solution(code);
         System.out.println(answer);
     }
-
 }

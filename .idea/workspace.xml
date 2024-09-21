@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="bufferedReader">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/Baek2557/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/Baek2557/Main_bw.java" afterDir="false" />
+    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="프로그래머스 코드 처리하기">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/등차수열의_특정한_항만_더하기/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/BufferReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/BufferReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/코드_처리하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/코드_처리하기/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +86,8 @@
       <workItem from="1722444549272" duration="1200000" />
       <workItem from="1726016484751" duration="656000" />
       <workItem from="1726796220989" duration="1841000" />
+      <workItem from="1726798073316" duration="2908000" />
+      <workItem from="1726887908815" duration="1025000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <option name="closed" value="true" />
@@ -192,7 +193,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721093503003</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="백준 2557">
+      <option name="closed" value="true" />
+      <created>1726798099463</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1726798099463</updated>
+    </task>
+    <task id="LOCAL-00015" summary="프로그래머스 코드 처리하기">
+      <option name="closed" value="true" />
+      <created>1726809909963</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726809909963</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +227,9 @@
     <MESSAGE value="programers0  홀짝에따라다른값반환하기/조건문자열" />
     <MESSAGE value="programers0  .idea의 workspace.xml git ignore" />
     <MESSAGE value="bufferedReader" />
-    <option name="LAST_COMMIT_MESSAGE" value="bufferedReader" />
+    <MESSAGE value="백준 2557" />
+    <MESSAGE value="프로그래머스 코드 처리하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 코드 처리하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
