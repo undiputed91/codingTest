@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="프로그래머스 등차수열의 특정한 항만 더하기">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/baek1000/Main.java" afterDir="false" />
+    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="백준1000">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/주사위게임2/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/Baek2557/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/baek2557/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/Baek2557/Main_bw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/baek2557/Main_bw.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +86,7 @@
       <workItem from="1726016484751" duration="656000" />
       <workItem from="1726796220989" duration="1841000" />
       <workItem from="1726798073316" duration="2908000" />
-      <workItem from="1726887908815" duration="1765000" />
+      <workItem from="1726887908815" duration="2842000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <option name="closed" value="true" />
@@ -218,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726889030580</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="백준1000">
+      <option name="closed" value="true" />
+      <created>1726889805349</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1726889805349</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +245,8 @@
     <MESSAGE value="백준 2557" />
     <MESSAGE value="프로그래머스 코드 처리하기" />
     <MESSAGE value="프로그래머스 등차수열의 특정한 항만 더하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 등차수열의 특정한 항만 더하기" />
+    <MESSAGE value="백준1000" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준1000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
