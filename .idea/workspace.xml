@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="백준1000">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/주사위게임2/Solution.java" afterDir="false" />
+    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="프로그래머스 이어붙인 수">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/baek1008/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/baek1000/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/baek1000/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,9 @@
       <workItem from="1726016484751" duration="656000" />
       <workItem from="1726796220989" duration="1841000" />
       <workItem from="1726798073316" duration="2908000" />
-      <workItem from="1726887908815" duration="2842000" />
+      <workItem from="1726887908815" duration="2930000" />
+      <workItem from="1727096904651" duration="2097000" />
+      <workItem from="1727167055658" duration="346000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <option name="closed" value="true" />
@@ -224,7 +227,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726889805349</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="프로그래머스 주사위게임2">
+      <option name="closed" value="true" />
+      <created>1726972196317</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1726972196317</updated>
+    </task>
+    <task id="LOCAL-00019" summary="프로그래머스 원소들의 곱과 합">
+      <option name="closed" value="true" />
+      <created>1727097096289</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1727097096289</updated>
+    </task>
+    <task id="LOCAL-00020" summary="프로그래머스 이어붙인 수">
+      <option name="closed" value="true" />
+      <created>1727152605027</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1727152605027</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +273,10 @@
     <MESSAGE value="프로그래머스 코드 처리하기" />
     <MESSAGE value="프로그래머스 등차수열의 특정한 항만 더하기" />
     <MESSAGE value="백준1000" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준1000" />
+    <MESSAGE value="프로그래머스 주사위게임2" />
+    <MESSAGE value="프로그래머스 원소들의 곱과 합" />
+    <MESSAGE value="프로그래머스 이어붙인 수" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 이어붙인 수" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
