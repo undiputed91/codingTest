@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="프로그래머스 이어붙인 수">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/baek1008/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/baek1000/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/baek1000/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="백준 1008 a/b" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +85,7 @@
       <workItem from="1726798073316" duration="2908000" />
       <workItem from="1726887908815" duration="2930000" />
       <workItem from="1727096904651" duration="2097000" />
-      <workItem from="1727167055658" duration="346000" />
+      <workItem from="1727167055658" duration="399000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <option name="closed" value="true" />
@@ -251,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727152605027</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="백준 1008 a/b">
+      <option name="closed" value="true" />
+      <created>1727167440439</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1727167440439</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,7 +280,8 @@
     <MESSAGE value="프로그래머스 주사위게임2" />
     <MESSAGE value="프로그래머스 원소들의 곱과 합" />
     <MESSAGE value="프로그래머스 이어붙인 수" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 이어붙인 수" />
+    <MESSAGE value="백준 1008 a/b" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 1008 a/b" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

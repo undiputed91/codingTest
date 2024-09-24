@@ -1,4 +1,4 @@
-package org.example.baekjoon.baek2557;
+package org.example.baekjoon.baek2557_BW;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

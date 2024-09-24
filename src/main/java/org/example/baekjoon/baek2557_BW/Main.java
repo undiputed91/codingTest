@@ -1,4 +1,4 @@
-package org.example.baekjoon.baek2557;
+package org.example.baekjoon.baek2557_BW;
 
 public class Main {
     //백준 알고리즘은 main클래스로 시작해야 한다.
