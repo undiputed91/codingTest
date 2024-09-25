@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="백준 10869 사칙연산" />
+    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="프로그래머스 마지막 두 원소" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +87,7 @@
       <workItem from="1727096904651" duration="2097000" />
       <workItem from="1727167055658" duration="399000" />
       <workItem from="1727167812167" duration="121000" />
+      <workItem from="1727212318364" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="git init">
       <option name="closed" value="true" />
@@ -264,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727167929454</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="프로그래머스 마지막 두 원소">
+      <option name="closed" value="true" />
+      <created>1727212398467</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1727212398467</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,7 +300,8 @@
     <MESSAGE value="프로그래머스 이어붙인 수" />
     <MESSAGE value="백준 1008 a/b" />
     <MESSAGE value="백준 10869 사칙연산" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 10869 사칙연산" />
+    <MESSAGE value="프로그래머스 마지막 두 원소" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 마지막 두 원소" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
