@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="프로그래머스 마지막 두 원소" />
+    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="백준 25304 영수증">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +59,95 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.org.example.programmers.level0.문자열여러번뒤집기.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.baek2525.Main" />
+      <module name="codingTest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.baekjoon.baek2525.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.programmers.level0.콜라츠수열.main" />
+      <module name="codingTest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.programmers.level0.콜라츠수열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.programmers.level0.수열과구간쿼리2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.programmers.level0.수열과구간쿼리2.Main" />
+      <module name="codingTest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.programmers.level0.수열과구간쿼리2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.programmers.level0.수열과구간쿼리4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.programmers.level0.수열과구간쿼리4.Main" />
+      <module name="codingTest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.programmers.level0.수열과구간쿼리4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.programmers.level0.배열만들기4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.programmers.level0.배열만들기4.Main" />
+      <module name="codingTest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.programmers.level0.배열만들기4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.programmers.level0.문자열여러번뒤집기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.programmers.level0.문자열여러번뒤집기.Main" />
+      <module name="codingTest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.programmers.level0.문자열여러번뒤집기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.example.programmers.level0.문자열여러번뒤집기.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.org.example.programmers.level0.수열과구간쿼리4.Main" />
+        <item itemvalue="Application.org.example.programmers.level0.수열과구간쿼리2.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -88,46 +179,23 @@
       <workItem from="1727167055658" duration="399000" />
       <workItem from="1727167812167" duration="121000" />
       <workItem from="1727212318364" duration="88000" />
-    </task>
-    <task id="LOCAL-00001" summary="git init">
-      <option name="closed" value="true" />
-      <created>1711727377774</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1711727377774</updated>
-    </task>
-    <task id="LOCAL-00002" summary="git init">
-      <option name="closed" value="true" />
-      <created>1711727866798</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1711727866798</updated>
-    </task>
-    <task id="LOCAL-00003" summary="programers0 대소문 바꿔서 출력하기">
-      <option name="closed" value="true" />
-      <created>1712411990587</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1712411990587</updated>
-    </task>
-    <task id="LOCAL-00004" summary="programers0 특수문자 출력하기">
-      <option name="closed" value="true" />
-      <created>1712448285594</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1712448285594</updated>
-    </task>
-    <task id="LOCAL-00005" summary="programers0  덧셈식 출력하기">
-      <option name="closed" value="true" />
-      <created>1712630795424</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1712630795424</updated>
+      <workItem from="1727273467349" duration="1069000" />
+      <workItem from="1727482578006" duration="1604000" />
+      <workItem from="1727575971146" duration="2733000" />
+      <workItem from="1727583690403" duration="6385000" />
+      <workItem from="1727746361307" duration="932000" />
+      <workItem from="1727935717653" duration="4242000" />
+      <workItem from="1727947409898" duration="164000" />
+      <workItem from="1727948032841" duration="56000" />
+      <workItem from="1727987595117" duration="67000" />
+      <workItem from="1728045909101" duration="404000" />
+      <workItem from="1728164241207" duration="2811000" />
+      <workItem from="1728263496786" duration="2165000" />
+      <workItem from="1728345788078" duration="1526000" />
+      <workItem from="1728398178914" duration="5763000" />
+      <workItem from="1728484512472" duration="1357000" />
+      <workItem from="1728692789226" duration="3067000" />
+      <workItem from="1728780824850" duration="4744000" />
     </task>
     <task id="LOCAL-00006" summary="programers0  덧셈식 출력하기">
       <option name="closed" value="true" />
@@ -273,35 +341,287 @@
       <option name="project" value="LOCAL" />
       <updated>1727212398467</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="프로그래머스 수 조작하기">
+      <option name="closed" value="true" />
+      <created>1727273552219</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1727273552219</updated>
+    </task>
+    <task id="LOCAL-00025" summary="백준 10926 ??!">
+      <option name="closed" value="true" />
+      <created>1727354805423</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1727354805423</updated>
+    </task>
+    <task id="LOCAL-00026" summary="백준 18108 1998년생인 내가 태국에서는 2541년생?!">
+      <option name="closed" value="true" />
+      <created>1727482686773</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1727482686773</updated>
+    </task>
+    <task id="LOCAL-00027" summary="프로그래머스 수 조작하기2">
+      <option name="closed" value="true" />
+      <created>1727484777646</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1727484777646</updated>
+    </task>
+    <task id="LOCAL-00028" summary="프로그래머스 수열과 구간쿼리3">
+      <option name="closed" value="true" />
+      <created>1727579024591</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1727579024591</updated>
+    </task>
+    <task id="LOCAL-00029" summary="백준 10430 나머지">
+      <option name="closed" value="true" />
+      <created>1727746264192</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1727746264192</updated>
+    </task>
+    <task id="LOCAL-00030" summary="백준 2588 곱하기">
+      <option name="closed" value="true" />
+      <created>1727747294166</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1727747294166</updated>
+    </task>
+    <task id="LOCAL-00031" summary="프로그래머스 수열과 구간쿼리2">
+      <option name="closed" value="true" />
+      <created>1727944612773</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1727944612773</updated>
+    </task>
+    <task id="LOCAL-00032" summary="프로그래머스 수열과 구간쿼리4">
+      <option name="closed" value="true" />
+      <created>1727946268298</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1727946268298</updated>
+    </task>
+    <task id="LOCAL-00033" summary="백준 11382 꼬마 정민">
+      <option name="closed" value="true" />
+      <created>1727947042321</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1727947042321</updated>
+    </task>
+    <task id="LOCAL-00034" summary="백준 10171 고양이">
+      <option name="closed" value="true" />
+      <created>1727947503854</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1727947503854</updated>
+    </task>
+    <task id="LOCAL-00035" summary="백준 10171 고양이">
+      <option name="closed" value="true" />
+      <created>1727948072704</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1727948072704</updated>
+    </task>
+    <task id="LOCAL-00036" summary="백준 1330 두 수 비교하기">
+      <option name="closed" value="true" />
+      <created>1727987654562</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1727987654562</updated>
+    </task>
+    <task id="LOCAL-00037" summary="프로그래머스 배열만들기2">
+      <option name="closed" value="true" />
+      <created>1728046310556</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1728046310556</updated>
+    </task>
+    <task id="LOCAL-00038" summary="백준 2753 윤년">
+      <option name="closed" value="true" />
+      <created>1728164383916</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1728164383916</updated>
+    </task>
+    <task id="LOCAL-00039" summary="백준 14681 사분면">
+      <option name="closed" value="true" />
+      <created>1728170805331</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1728170805331</updated>
+    </task>
+    <task id="LOCAL-00040" summary="프로그래머스 카운터 업">
+      <option name="closed" value="true" />
+      <created>1728171750753</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1728171750753</updated>
+    </task>
+    <task id="LOCAL-00041" summary="프로그래머스 콜라츠 수열">
+      <option name="closed" value="true" />
+      <created>1728182868027</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1728182868028</updated>
+    </task>
+    <task id="LOCAL-00042" summary="백준 2884 알람 시계">
+      <option name="closed" value="true" />
+      <created>1728263609389</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1728263609389</updated>
+    </task>
+    <task id="LOCAL-00043" summary="프로그래머스 배열만들기4">
+      <option name="closed" value="true" />
+      <created>1728265659855</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1728265659855</updated>
+    </task>
+    <task id="LOCAL-00044" summary="프로그래머스 간단한논리연산">
+      <option name="closed" value="true" />
+      <created>1728345841662</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1728345841662</updated>
+    </task>
+    <task id="LOCAL-00045" summary="백준 2525 오븐 시계">
+      <option name="closed" value="true" />
+      <created>1728347417728</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1728347417728</updated>
+    </task>
+    <task id="LOCAL-00046" summary="프로그래머스 주사위게임3">
+      <option name="closed" value="true" />
+      <created>1728428616384</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1728428616384</updated>
+    </task>
+    <task id="LOCAL-00047" summary="백준 2480 주사위 세개">
+      <option name="closed" value="true" />
+      <created>1728428658566</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1728428658566</updated>
+    </task>
+    <task id="LOCAL-00048" summary="백준 2739 구구단">
+      <option name="closed" value="true" />
+      <created>1728518627509</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1728518627509</updated>
+    </task>
+    <task id="LOCAL-00049" summary="프로그래머스 글자이어붙여 문자 만들기">
+      <option name="closed" value="true" />
+      <created>1728518660860</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1728518660860</updated>
+    </task>
+    <task id="LOCAL-00050" summary="프로그래머스 9로 나눈 나머지">
+      <option name="closed" value="true" />
+      <created>1728698126015</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1728698126016</updated>
+    </task>
+    <task id="LOCAL-00051" summary="백준 10950 A+B-3">
+      <option name="closed" value="true" />
+      <created>1728705560703</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1728705560703</updated>
+    </task>
+    <task id="LOCAL-00052" summary="프로그래머스 문자열 여러번 뒤집기">
+      <option name="closed" value="true" />
+      <created>1728783504284</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1728783504284</updated>
+    </task>
+    <task id="LOCAL-00053" summary="프로그래머스 배열만들기5">
+      <option name="closed" value="true" />
+      <created>1728865775123</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1728865775123</updated>
+    </task>
+    <task id="LOCAL-00054" summary="백준 25304 영수증">
+      <option name="closed" value="true" />
+      <created>1728865793503</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1728865793503</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="git init" />
-    <MESSAGE value="programers0 대소문 바꿔서 출력하기" />
-    <MESSAGE value="programers0 특수문자 출력하기" />
-    <MESSAGE value="programers0  덧셈식 출력하기" />
-    <MESSAGE value="programers0  홀짝 구분하기" />
-    <MESSAGE value="programers0  문자열 겹쳐쓰기, 문자열 섞기" />
-    <MESSAGE value="programers0  문자열리스트를 문자열로 변환하기, 문자열 곱하기" />
-    <MESSAGE value="programers0  더 크게 합치기" />
-    <MESSAGE value="programers0  홀짝에따라다른값반환하기/조건문자열" />
-    <MESSAGE value="programers0  .idea의 workspace.xml git ignore" />
-    <MESSAGE value="bufferedReader" />
-    <MESSAGE value="백준 2557" />
-    <MESSAGE value="프로그래머스 코드 처리하기" />
-    <MESSAGE value="프로그래머스 등차수열의 특정한 항만 더하기" />
-    <MESSAGE value="백준1000" />
-    <MESSAGE value="프로그래머스 주사위게임2" />
-    <MESSAGE value="프로그래머스 원소들의 곱과 합" />
-    <MESSAGE value="프로그래머스 이어붙인 수" />
-    <MESSAGE value="백준 1008 a/b" />
-    <MESSAGE value="백준 10869 사칙연산" />
-    <MESSAGE value="프로그래머스 마지막 두 원소" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 마지막 두 원소" />
+    <MESSAGE value="백준 10430 나머지" />
+    <MESSAGE value="백준 2588 곱하기" />
+    <MESSAGE value="프로그래머스 수열과 구간쿼리2" />
+    <MESSAGE value="프로그래머스 수열과 구간쿼리4" />
+    <MESSAGE value="백준 11382 꼬마 정민" />
+    <MESSAGE value="백준 10171 고양이" />
+    <MESSAGE value="백준 1330 두 수 비교하기" />
+    <MESSAGE value="프로그래머스 배열만들기2" />
+    <MESSAGE value="백준 2753 윤년" />
+    <MESSAGE value="백준 14681 사분면" />
+    <MESSAGE value="프로그래머스 카운터 업" />
+    <MESSAGE value="프로그래머스 콜라츠 수열" />
+    <MESSAGE value="백준 2884 알람 시계" />
+    <MESSAGE value="프로그래머스 배열만들기4" />
+    <MESSAGE value="프로그래머스 간단한논리연산" />
+    <MESSAGE value="백준 2525 오븐 시계" />
+    <MESSAGE value="프로그래머스 주사위게임3" />
+    <MESSAGE value="백준 2480 주사위 세개" />
+    <MESSAGE value="백준 2739 구구단" />
+    <MESSAGE value="프로그래머스 글자이어붙여 문자 만들기" />
+    <MESSAGE value="프로그래머스 9로 나눈 나머지" />
+    <MESSAGE value="백준 10950 A+B-3" />
+    <MESSAGE value="프로그래머스 문자열 여러번 뒤집기" />
+    <MESSAGE value="프로그래머스 배열만들기5" />
+    <MESSAGE value="백준 25304 영수증" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 25304 영수증" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
