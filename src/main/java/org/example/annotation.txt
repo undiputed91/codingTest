@@ -1,0 +1,79 @@
+주석들 모음
+
+대소문자바꿔서출력하기{
+Character.toUpperCase(char) -> 대문자로 변환
+Character.isUpperCase(char) -> 대문자인지 확인(true)
+}
+
+더크게합치기{
+Math.max(a,b)
+}
+
+문자개수세기{
+아스키 코드 상 소문자가 대문자 값의 +26
+}
+
+문자열섞기{
+>문자열과 문자 정리
+String -> 문자배열 char[] charArr = str.toCharArray();
+문자 하나 뽑기 char char1 = str.charAt(i);
+char[] -> String  : String str = String.valueOf();       String str = new String(charArr); 비추
+String str = String.copyValueOf(반환데이터(char[]),시작인덱스,변환할 길이) / substring은 기존 문자열을 잘라줌
+}
+
+문자배열여러번뒤집기{
+>문자배열 출력
+charArray = {a,b,c,d};일 때
+  sout(charArray) -> 주소값 나옴
+  sout(Arrays.toString()) -> {a,b,c,d}
+  sout(new String(charArray)) -> "abcd"
+}
+
+배열만들기2{
+컬렉션 안의 요소가 String이라면 컬렉션.toArray()로 바로 배열로 변경 가능 하지만 int일 경우 for문을 통해 하나씩 대입 필요
+
+블럭 안에서 선언 초기화(new) 하면 블럭 밖에서 사용 불가
+초기화 내용을 if나 for 블럭안의 요소를 사용해야 한다면 블럭밖에서 선언하고 블럭안에서 초기화(new) 하는 형태로 사용
+}
+
+배열만들기4{
+stack의 peek과 pop 사용 전에 비어있는지 확인하지 않는다면 runtime error 발생
+}
+
+수열과구간쿼리4{
+arr[i]와 i를 헷갈리지 않기
+}
+
+아홉으로나눈나머지{
+int와 char
+char -> int : Character.getNumericValue(char);
+int -> char : +'';
+}
+
+접미사인지_확인하기{
+String끼리는 equals()메서드로 비교하지만 char는 그냥 ==로만 비교(String(참조형)은 주소값이어서 vs char(기본형))
+my_string.startsWith(is_prefix) 접두사인지 확인하는 메서드
+my_string.endsWith(is_suffix) 접미사인지 확인하는 메서드
+}
+
+주사위게임3{
+Math.pow(대상,몇 제곱) ->double 타입 반환
+Math.abs() 절대값
+}
+
+특수문자출력하기{
+\ 와 " 앞에는 \를 붙여서 출력가능
+}
+
+글자지우기{
+배열에서 특정값이 존재하는지 확인하는 방법
+1) for문 사용
+2) 컬렉션으로 변환 후 contains 메서드 사용
+3) 스트림 사용
+
+ Arrays.asList(array)
+ array가 String[], Integer같은 참조형 배열일 때 (int[], char[]는 못함) List(컬렉션)으로 변환하는 메서드
+ List와 ArrayList 차이
+ 둘 다 배열 형태지만 List는 배열과 동일하게 길이 고정이지만 ArrayList는 가변길이로 add를 통해 추가할 수 있다.
+ List는 배열과 다르게 관련 메서드 사용가능 (contains())
+}

@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="백준 25304 영수증">
+    <list default="true" id="b04c2aea-0a5a-4d43-b3c6-ddc0b5d6b391" name="Changes" comment="프로그래머스 레벨0 문자 개수 세기">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/annotation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/글자지우기/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/문자열겹쳐쓰기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/문자열겹쳐쓰기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/문자열섞기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/programmers/level0/문자열섞기/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +50,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -196,62 +200,10 @@
       <workItem from="1728484512472" duration="1357000" />
       <workItem from="1728692789226" duration="3067000" />
       <workItem from="1728780824850" duration="4744000" />
-    </task>
-    <task id="LOCAL-00006" summary="programers0  덧셈식 출력하기">
-      <option name="closed" value="true" />
-      <created>1712808332450</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1712808332450</updated>
-    </task>
-    <task id="LOCAL-00007" summary="programers0  홀짝 구분하기">
-      <option name="closed" value="true" />
-      <created>1712832580021</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1712832580021</updated>
-    </task>
-    <task id="LOCAL-00008" summary="programers0  문자열 겹쳐쓰기, 문자열 섞기">
-      <option name="closed" value="true" />
-      <created>1713164190863</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1713164190863</updated>
-    </task>
-    <task id="LOCAL-00009" summary="programers0  문자열리스트를 문자열로 변환하기, 문자열 곱하기">
-      <option name="closed" value="true" />
-      <created>1713248430336</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1713248430336</updated>
-    </task>
-    <task id="LOCAL-00010" summary="programers0  더 크게 합치기">
-      <option name="closed" value="true" />
-      <created>1713343635929</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1713343635929</updated>
-    </task>
-    <task id="LOCAL-00011" summary="programers0  홀짝에따라다른값반환하기/조건문자열">
-      <option name="closed" value="true" />
-      <created>1713507710752</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1713507710753</updated>
-    </task>
-    <task id="LOCAL-00012" summary="programers0  .idea의 workspace.xml git ignore">
-      <option name="closed" value="true" />
-      <created>1717641124441</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1717641124441</updated>
+      <workItem from="1728976900668" duration="6980000" />
+      <workItem from="1729566082861" duration="82000" />
+      <workItem from="1729567284431" duration="953000" />
+      <workItem from="1729582135967" duration="5446000" />
     </task>
     <task id="LOCAL-00013" summary="bufferedReader">
       <option name="closed" value="true" />
@@ -589,19 +541,80 @@
       <option name="project" value="LOCAL" />
       <updated>1728865793503</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="프로그래머스 level0 부분문자열 이여붙혀 문자열 만들기">
+      <option name="closed" value="true" />
+      <created>1728977058350</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1728977058350</updated>
+    </task>
+    <task id="LOCAL-00056" summary="백준 25314 코딩은 체육과목입니다.">
+      <option name="closed" value="true" />
+      <created>1728978067150</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1728978067150</updated>
+    </task>
+    <task id="LOCAL-00057" summary="백준 25314 코딩은 체육과목입니다.">
+      <option name="closed" value="true" />
+      <created>1728978325831</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1728978325831</updated>
+    </task>
+    <task id="LOCAL-00058" summary="프로그래머스 접미사 배열">
+      <option name="closed" value="true" />
+      <created>1729073513498</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1729073513498</updated>
+    </task>
+    <task id="LOCAL-00059" summary="프로그래머스 접미사인지 확인하기">
+      <option name="closed" value="true" />
+      <created>1729128033430</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1729128033430</updated>
+    </task>
+    <task id="LOCAL-00060" summary="프로그래머스 레벨0 세로 읽기">
+      <option name="closed" value="true" />
+      <created>1729465706590</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1729465706590</updated>
+    </task>
+    <task id="LOCAL-00061" summary="프로그래머스 레벨0 문자 개수 세기">
+      <option name="closed" value="true" />
+      <created>1729566160350</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1729566160350</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 10430 나머지" />
-    <MESSAGE value="백준 2588 곱하기" />
-    <MESSAGE value="프로그래머스 수열과 구간쿼리2" />
-    <MESSAGE value="프로그래머스 수열과 구간쿼리4" />
-    <MESSAGE value="백준 11382 꼬마 정민" />
-    <MESSAGE value="백준 10171 고양이" />
     <MESSAGE value="백준 1330 두 수 비교하기" />
     <MESSAGE value="프로그래머스 배열만들기2" />
     <MESSAGE value="백준 2753 윤년" />
@@ -621,21 +634,12 @@
     <MESSAGE value="프로그래머스 문자열 여러번 뒤집기" />
     <MESSAGE value="프로그래머스 배열만들기5" />
     <MESSAGE value="백준 25304 영수증" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 25304 영수증" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/programmers/level0/홀짝구분하기/Solution.java</url>
-          <line>5</line>
-          <properties class="org.example.programmers.level0.홀짝구분하기.Solution" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="프로그래머스 level0 부분문자열 이여붙혀 문자열 만들기" />
+    <MESSAGE value="백준 25314 코딩은 체육과목입니다." />
+    <MESSAGE value="프로그래머스 접미사 배열" />
+    <MESSAGE value="프로그래머스 접미사인지 확인하기" />
+    <MESSAGE value="프로그래머스 레벨0 세로 읽기" />
+    <MESSAGE value="프로그래머스 레벨0 문자 개수 세기" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 레벨0 문자 개수 세기" />
   </component>
 </project>

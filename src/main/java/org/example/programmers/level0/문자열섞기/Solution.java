@@ -16,7 +16,7 @@ class Solution {
 
     //String -> 문자배열 char[] charArr = str.toCharArray();
     //문자 하나 뽑기 char char1 = str.charAt(i);
-    //문자배열 -> String String str = String.valueOf();       String str = new String(charArr); 비추
+    //char[] -> String  : String str = String.valueOf();       String str = new String(charArr); 비추
     //String str = String.copyValueOf(반환데이터,시작인덱스,변환할 길이)
 
     public static void main(String[] args) {
