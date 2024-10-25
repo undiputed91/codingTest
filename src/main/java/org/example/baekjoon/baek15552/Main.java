@@ -27,3 +27,25 @@ public class Main {
     }
 
 }
+
+//split을 사용하지 않고 StringTokenizer로 받을 수 있다.
+//            for (int i = 0; i < n; i++) {
+//            // 한 줄 입력받고 StringTokenizer로 토큰화
+//            StringTokenizer stringTokenizer = new StringTokenizer(bufferedReader.readLine());
+//            int firstNum = Integer.parseInt(stringTokenizer.nextToken()); // 첫 번째 숫자
+//            int secondNum = Integer.parseInt(stringTokenizer.nextToken()); // 두 번째 숫자
+//
+//            // 두 숫자의 합을 출력
+//            bufferedWriter.write(firstNum + secondNum + "\n");
+//        }
+
+//bufferedwriter대신 Stringbuilder를 통해 더 빠른 성능을 보장할 수 있다.
+//      StringBuilder sb = new StringBuilder();
+//
+//		for (int i = 0; i < N; i++) {
+//			st = new StringTokenizer(br.readLine()," ");
+//			sb.append(Integer.parseInt(st.nextToken()) + Integer.parseInt(st.nextToken())).append('\n');
+//		}
+//		br.close();
+//
+//		System.out.println(sb);
