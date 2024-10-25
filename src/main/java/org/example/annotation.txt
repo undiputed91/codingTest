@@ -46,7 +46,7 @@ arr[i]와 i를 헷갈리지 않기
 
 아홉으로나눈나머지{
 int와 char
-char -> int : Character.getNumericValue(char);
+char -> int : Character.getNumericValue(char); 또는 -'0'
 int -> char : +'';
 }
 
@@ -76,4 +76,8 @@ Math.abs() 절대값
  List와 ArrayList 차이
  둘 다 배열 형태지만 List는 배열과 동일하게 길이 고정이지만 ArrayList는 가변길이로 add를 통해 추가할 수 있다.
  List는 배열과 다르게 관련 메서드 사용가능 (contains())
+}
+
+백준2525{
+입력값을 나누고 싶다면 String.split("구분할 것") 을 통해 String[]로 쪼개기 가능
 }
