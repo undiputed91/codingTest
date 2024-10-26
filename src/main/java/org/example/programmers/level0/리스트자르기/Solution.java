@@ -14,7 +14,7 @@ class Solution {
                 list.add(num_list[i]);
             }
         }else if(n == 2){
-            for(int i=a+1; i<num_list.length;i++){
+            for(int i=a; i<num_list.length;i++){
                 list.add(num_list[i]);
             }
         }else if(n == 3){
