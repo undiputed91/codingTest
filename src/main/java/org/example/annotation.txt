@@ -81,3 +81,7 @@ Math.abs() 절대값
 백준2525{
 입력값을 나누고 싶다면 String.split("구분할 것") 을 통해 String[]로 쪼개기 가능
 }
+
+둘의영역{
+Arrays.copyOfRange(기존배열,from,to)//기존 배열을 잘라 새로운 배열을 만듬 (from산입, to불산입)
+}
